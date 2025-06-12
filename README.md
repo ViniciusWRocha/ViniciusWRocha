@@ -8,4 +8,4 @@
 
 ## 📊 My GitHub Stats
 
-![Vinicius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO**&show_icons=true&theme=radical&hide_rank=true)
+![Vinicius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusWRocha&show_icons=true&theme=radical&hide_rank=true)
